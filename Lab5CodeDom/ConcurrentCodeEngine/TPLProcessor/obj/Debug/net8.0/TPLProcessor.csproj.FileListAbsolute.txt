@@ -1,0 +1,14 @@
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\obj\Debug\net8.0\TPLProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\obj\Debug\net8.0\TPLProcessor.AssemblyInfoInputs.cache
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\obj\Debug\net8.0\TPLProcessor.AssemblyInfo.cs
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\obj\Debug\net8.0\TPLProcessor.csproj.CoreCompileInputs.cache
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\bin\Debug\net8.0\TPLProcessor.exe
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\bin\Debug\net8.0\TPLProcessor.deps.json
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\bin\Debug\net8.0\TPLProcessor.runtimeconfig.json
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\bin\Debug\net8.0\TPLProcessor.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\bin\Debug\net8.0\TPLProcessor.pdb
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\obj\Debug\net8.0\TPLProcessor.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\obj\Debug\net8.0\refint\TPLProcessor.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\obj\Debug\net8.0\TPLProcessor.pdb
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\obj\Debug\net8.0\TPLProcessor.genruntimeconfig.cache
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\TPLProcessor\obj\Debug\net8.0\ref\TPLProcessor.dll

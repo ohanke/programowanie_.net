@@ -1,0 +1,14 @@
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\bin\Debug\net8.0\ThreadProcessor.exe
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\bin\Debug\net8.0\ThreadProcessor.deps.json
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\bin\Debug\net8.0\ThreadProcessor.runtimeconfig.json
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\bin\Debug\net8.0\ThreadProcessor.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\bin\Debug\net8.0\ThreadProcessor.pdb
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\obj\Debug\net8.0\ThreadProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\obj\Debug\net8.0\ThreadProcessor.AssemblyInfoInputs.cache
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\obj\Debug\net8.0\ThreadProcessor.AssemblyInfo.cs
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\obj\Debug\net8.0\ThreadProcessor.csproj.CoreCompileInputs.cache
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\obj\Debug\net8.0\ThreadProcessor.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\obj\Debug\net8.0\refint\ThreadProcessor.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\obj\Debug\net8.0\ThreadProcessor.pdb
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\obj\Debug\net8.0\ThreadProcessor.genruntimeconfig.cache
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\ConcurrentCodeEngine\ThreadProcessor\obj\Debug\net8.0\ref\ThreadProcessor.dll

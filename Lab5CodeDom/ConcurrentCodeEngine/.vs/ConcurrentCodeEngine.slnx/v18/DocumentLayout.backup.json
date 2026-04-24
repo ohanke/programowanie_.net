@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{224DD516-CA09-43FF-A1E0-1B0A0B601C8B}|ThreadProcessor\\ThreadProcessor.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\concurrentcodeengine\\threadprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{224DD516-CA09-43FF-A1E0-1B0A0B601C8B}|ThreadProcessor\\ThreadProcessor.csproj|solutionrelative:threadprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC6D558-4DF0-424A-87CE-DE54382CE2D2}|TPLProcessor\\TPLProcessor.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\concurrentcodeengine\\tplprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC6D558-4DF0-424A-87CE-DE54382CE2D2}|TPLProcessor\\TPLProcessor.csproj|solutionrelative:tplprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295321F9-5259-BDF6-D635-82F273E60C8C}|CodeEngineUI\\CodeEngineUI.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\concurrentcodeengine\\codeengineui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295321F9-5259-BDF6-D635-82F273E60C8C}|CodeEngineUI\\CodeEngineUI.csproj|solutionrelative:codeengineui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA47C9-DA25-4D94-8981-91269D577348}|SharedLogic\\SharedLogic.shproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\concurrentcodeengine\\sharedlogic\\criticalresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA47C9-DA25-4D94-8981-91269D577348}|SharedLogic\\SharedLogic.shproj|solutionrelative:sharedlogic\\criticalresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295321F9-5259-BDF6-D635-82F273E60C8C}|CodeEngineUI\\CodeEngineUI.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\concurrentcodeengine\\codeengineui\\compilerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295321F9-5259-BDF6-D635-82F273E60C8C}|CodeEngineUI\\CodeEngineUI.csproj|solutionrelative:codeengineui\\compilerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295321F9-5259-BDF6-D635-82F273E60C8C}|CodeEngineUI\\CodeEngineUI.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\concurrentcodeengine\\codeengineui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{295321F9-5259-BDF6-D635-82F273E60C8C}|CodeEngineUI\\CodeEngineUI.csproj|solutionrelative:codeengineui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75DA47C9-DA25-4D94-8981-91269D577348}|SharedLogic\\SharedLogic.shproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\concurrentcodeengine\\sharedlogic\\globalsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75DA47C9-DA25-4D94-8981-91269D577348}|SharedLogic\\SharedLogic.shproj|solutionrelative:sharedlogic\\globalsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobalSolution.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\SharedLogic\\GlobalSolution.cs",
+              "RelativeDocumentMoniker": "SharedLogic\\GlobalSolution.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\SharedLogic\\GlobalSolution.cs",
+              "RelativeToolTip": "SharedLogic\\GlobalSolution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T18:03:11.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CriticalResource.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\SharedLogic\\CriticalResource.cs",
+              "RelativeDocumentMoniker": "SharedLogic\\CriticalResource.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\SharedLogic\\CriticalResource.cs",
+              "RelativeToolTip": "SharedLogic\\CriticalResource.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T18:02:24.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\ThreadProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\ThreadProcessor\\Program.cs",
+              "RelativeToolTip": "ThreadProcessor\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T18:00:13.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\TPLProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "TPLProcessor\\Program.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\TPLProcessor\\Program.cs",
+              "RelativeToolTip": "TPLProcessor\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:59:56.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\CodeEngineUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CodeEngineUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\CodeEngineUI\\MainWindow.xaml",
+              "RelativeToolTip": "CodeEngineUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-24T17:58:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\CodeEngineUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CodeEngineUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\CodeEngineUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CodeEngineUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAcwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:58:35.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompilerService.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\CodeEngineUI\\CompilerService.cs",
+              "RelativeDocumentMoniker": "CodeEngineUI\\CompilerService.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\ConcurrentCodeEngine\\CodeEngineUI\\CompilerService.cs",
+              "RelativeToolTip": "CodeEngineUI\\CompilerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T18:09:16.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

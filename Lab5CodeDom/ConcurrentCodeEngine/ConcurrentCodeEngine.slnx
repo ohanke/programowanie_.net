@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodeEngineUI/CodeEngineUI.csproj" />
+  <Project Path="SharedLogic/SharedLogic.shproj" Id="75da47c9-da25-4d94-8981-91269d577348" />
+  <Project Path="ThreadProcessor/ThreadProcessor.csproj" Id="224dd516-ca09-43ff-a1e0-1b0a0b601c8b" />
+  <Project Path="TPLProcessor/TPLProcessor.csproj" Id="cac6d558-4df0-424a-87ce-de54382ce2d2" />
+</Solution>
