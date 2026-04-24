@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="TextWidget.TextWidgetView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             Background="White"
+             Padding="15">
+    <StackPanel>
+        <TextBlock Text="TEXT ANALYSIS" FontSize="14" FontWeight="Bold" Margin="0,0,0,10"/>
+
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <TextBlock Text="Words: " FontWeight="SemiBold"/>
+            <TextBlock x:Name="WordCountTxt" Text="0"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Margin="0,5">
+            <TextBlock Text="Characters: " FontWeight="SemiBold"/>
+            <TextBlock x:Name="CharCountTxt" Text="0"/>
+        </StackPanel>
+    </StackPanel>
+</UserControl>

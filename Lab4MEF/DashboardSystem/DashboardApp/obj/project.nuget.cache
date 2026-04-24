@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3kFhv8nwUQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\DashboardApp\\DashboardApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steam\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\steam\\.nuget\\packages\\prism.container.abstractions\\9.0.106\\prism.container.abstractions.9.0.106.nupkg.sha512",
+    "C:\\Users\\steam\\.nuget\\packages\\prism.core\\9.0.537\\prism.core.9.0.537.nupkg.sha512",
+    "C:\\Users\\steam\\.nuget\\packages\\prism.events\\9.0.537\\prism.events.9.0.537.nupkg.sha512",
+    "C:\\Users\\steam\\.nuget\\packages\\system.componentmodel.composition\\10.0.7\\system.componentmodel.composition.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

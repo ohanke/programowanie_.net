@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F679B6CE-5D98-270D-A8A3-3E9500344103}|ChartsWidget\\ChartsWidget.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\chartswidget\\chartswidgetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F679B6CE-5D98-270D-A8A3-3E9500344103}|ChartsWidget\\ChartsWidget.csproj|solutionrelative:chartswidget\\chartswidgetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F679B6CE-5D98-270D-A8A3-3E9500344103}|ChartsWidget\\ChartsWidget.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\chartswidget\\chartswidget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F679B6CE-5D98-270D-A8A3-3E9500344103}|ChartsWidget\\ChartsWidget.csproj|solutionrelative:chartswidget\\chartswidget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F679B6CE-5D98-270D-A8A3-3E9500344103}|ChartsWidget\\ChartsWidget.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\chartswidget\\chartswidgetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F679B6CE-5D98-270D-A8A3-3E9500344103}|ChartsWidget\\ChartsWidget.csproj|solutionrelative:chartswidget\\chartswidgetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F679B6CE-5D98-270D-A8A3-3E9500344103}|ChartsWidget\\ChartsWidget.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\chartswidget\\chartswidget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F679B6CE-5D98-270D-A8A3-3E9500344103}|ChartsWidget\\ChartsWidget.csproj|solutionrelative:chartswidget\\chartswidget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\textwidget\\textwidget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|solutionrelative:textwidget\\textwidget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\textwidget\\textwidgetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|solutionrelative:textwidget\\textwidgetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\textwidget\\textwidgetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|solutionrelative:textwidget\\textwidgetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CFA65A-D4B8-6762-DE07-823626236FEC}|DashboardApp\\DashboardApp.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\dashboardapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CFA65A-D4B8-6762-DE07-823626236FEC}|DashboardApp\\DashboardApp.csproj|solutionrelative:dashboardapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\textwidget\\textwidgetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|solutionrelative:textwidget\\textwidgetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CFA65A-D4B8-6762-DE07-823626236FEC}|DashboardApp\\DashboardApp.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\dashboardapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E9CFA65A-D4B8-6762-DE07-823626236FEC}|DashboardApp\\DashboardApp.csproj|solutionrelative:dashboardapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|c:\\users\\steam\\ideaprojects\\programowanie.net\\lab4mef\\dashboardsystem\\textwidget\\textwidget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA85194B-FB6B-3D04-7CB8-0FE65FD24563}|TextWidget\\TextWidget.csproj|solutionrelative:textwidget\\textwidget.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChartsWidget",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\ChartsWidget\\ChartsWidget.csproj",
+              "RelativeDocumentMoniker": "ChartsWidget\\ChartsWidget.csproj",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\ChartsWidget\\ChartsWidget.csproj",
+              "RelativeToolTip": "ChartsWidget\\ChartsWidget.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T16:44:30.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChartsWidgetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\ChartsWidget\\ChartsWidgetViewModel.cs",
+              "RelativeDocumentMoniker": "ChartsWidget\\ChartsWidgetViewModel.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\ChartsWidget\\ChartsWidgetViewModel.cs",
+              "RelativeToolTip": "ChartsWidget\\ChartsWidgetViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:43:34.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChartsWidgetView.xaml",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\ChartsWidget\\ChartsWidgetView.xaml",
+              "RelativeDocumentMoniker": "ChartsWidget\\ChartsWidgetView.xaml",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\ChartsWidget\\ChartsWidgetView.xaml",
+              "RelativeToolTip": "ChartsWidget\\ChartsWidgetView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-24T16:42:49.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChartsWidget",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\ChartsWidget\\ChartsWidget.csproj",
+              "RelativeDocumentMoniker": "ChartsWidget\\ChartsWidget.csproj",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\ChartsWidget\\ChartsWidget.csproj",
+              "RelativeToolTip": "ChartsWidget\\ChartsWidget.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T16:40:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextWidget",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidget.csproj",
+              "RelativeDocumentMoniker": "TextWidget\\TextWidget.csproj",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidget.csproj",
+              "RelativeToolTip": "TextWidget\\TextWidget.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T16:36:12.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextWidgetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidgetViewModel.cs",
+              "RelativeDocumentMoniker": "TextWidget\\TextWidgetViewModel.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidgetViewModel.cs",
+              "RelativeToolTip": "TextWidget\\TextWidgetViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:34:21.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextWidgetView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidgetView.xaml.cs",
+              "RelativeDocumentMoniker": "TextWidget\\TextWidgetView.xaml.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidgetView.xaml.cs",
+              "RelativeToolTip": "TextWidget\\TextWidgetView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:32:53.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\DashboardApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DashboardApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\DashboardApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "DashboardApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T16:25:56.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\DashboardApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "DashboardApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\DashboardApp\\MainWindow.xaml",
+              "RelativeToolTip": "DashboardApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-24T16:24:02.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextWidgetView.xaml",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidgetView.xaml",
+              "RelativeDocumentMoniker": "TextWidget\\TextWidgetView.xaml",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidgetView.xaml",
+              "RelativeToolTip": "TextWidget\\TextWidgetView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-24T16:21:05.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TextWidget",
+              "DocumentMoniker": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidget.csproj",
+              "RelativeDocumentMoniker": "TextWidget\\TextWidget.csproj",
+              "ToolTip": "C:\\Users\\steam\\IdeaProjects\\programowanie.net\\Lab4MEF\\DashboardSystem\\TextWidget\\TextWidget.csproj",
+              "RelativeToolTip": "TextWidget\\TextWidget.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T16:17:34.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

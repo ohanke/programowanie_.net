@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ChartsWidget/ChartsWidget.csproj" />
+  <Project Path="Contracts/Contracts.csproj" />
+  <Project Path="DashboardApp/DashboardApp.csproj" />
+  <Project Path="TextWidget/TextWidget.csproj" />
+</Solution>

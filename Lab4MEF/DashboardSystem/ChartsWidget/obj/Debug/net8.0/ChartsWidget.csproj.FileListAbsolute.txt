@@ -1,0 +1,15 @@
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\bin\Debug\net8.0\ChartsWidget.deps.json
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\bin\Debug\net8.0\ChartsWidget.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\bin\Debug\net8.0\ChartsWidget.pdb
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\bin\Debug\net8.0\Contracts.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\bin\Debug\net8.0\Contracts.pdb
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\ChartsWidget.csproj.AssemblyReference.cache
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\ChartsWidget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\ChartsWidget.AssemblyInfoInputs.cache
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\ChartsWidget.AssemblyInfo.cs
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\ChartsWidget.csproj.CoreCompileInputs.cache
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\ChartsWi.1FE494DC.Up2Date
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\ChartsWidget.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\refint\ChartsWidget.dll
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\ChartsWidget.pdb
+C:\Users\steam\IdeaProjects\programowanie.net\Lab4MEF\DashboardSystem\ChartsWidget\obj\Debug\net8.0\ref\ChartsWidget.dll
