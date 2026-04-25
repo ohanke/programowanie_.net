@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Conway's Game of Life - WPF Edition" Height="700" Width="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Background="#F0F0F0" Margin="5">
+            <TextBlock Text="SIMULATION OPTIONS" FontWeight="Bold" Margin="5"/>
+            <Button Content="START / STOP" Margin="5" Click="btnStart_Click"/>
+            <Button Content="RANDOM" Margin="5" Click="btnRandom_Click"/>
+            <Button Content="CLEAR" Margin="5" Click="btnClear_Click"/>
+
+            <TextBlock Text="Speed (ms):" Margin="5,10,5,0"/>
+            <Slider x:Name="sldSpeed" Minimum="10" Maximum="1000" Value="100" Margin="5" ValueChanged="sldSpeed_ValueChanged"/>
+
+            <TextBlock Text="Zoom:" Margin="5,10,5,0"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Small" Width="70" Margin="5" Click="ZoomSmall_Click"/>
+                <Button Content="Large" Width="70" Margin="5" Click="ZoomLarge_Click"/>
+            </StackPanel>
+
+            <CheckBox x:Name="chkCircles" Content="Show as circles" Margin="5,10,5,5" Checked="Presentation_Changed" Unchecked="Presentation_Changed"/>
+
+            <TextBlock Text="Statistics" FontWeight="Bold" Margin="5,15,5,5"/>
+            <TextBlock x:Name="txtGen" Text="Generation: 0" Margin="5"/>
+            <TextBlock x:Name="txtAlive" Text="Alive: 0" Margin="5"/>
+            <TextBlock x:Name="txtBorn" Text="Born: 0" Margin="5" Foreground="Green"/>
+            <TextBlock x:Name="txtDead" Text="Dead: 0" Margin="5" Foreground="Red"/>
+
+            <Button Content="Save State" Margin="5,20,5,5" Click="Save_Click"/>
+            <Button Content="Load State" Margin="5" Click="Load_Click"/>
+        </StackPanel>
+
+        <ScrollViewer Grid.Column="1" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+            <Canvas x:Name="GameCanvas" Background="White" MouseLeftButtonDown="GameCanvas_MouseLeftButtonDown"/>
+        </ScrollViewer>
+    </Grid>
+</Window>
